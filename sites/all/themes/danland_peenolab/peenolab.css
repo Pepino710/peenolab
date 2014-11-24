@@ -1,0 +1,153 @@
+/* Header regions
+-------------------------------------------------------------- */
+
+#header {
+width: 1200px;
+}
+
+#user-bar-wrapper {
+margin:0px;
+padding:0px;
+width:1200px;
+min-height:35px;
+position:relative;
+background:#396218;
+}
+
+#user-bar-first {
+width:580px;
+height:35px;
+padding:0 15 10 0px;
+float:left;
+}
+
+#user-bar-second {
+width:580px;
+height:35px;
+padding:0 15 10 0px;
+background: #184d82;
+float:right;
+}
+
+#user-bar-first h2.block-title,
+#user-bar-second h2.block-title {
+display:none;
+}
+
+#user-bar-first li {
+float:left;
+display:inline;
+}
+
+#user-bar-second li {
+float:right;
+display:inline;
+}
+
+#header-wrapper #search-box {
+top:55px;
+}
+
+#user-bar-first a,
+#user-bar-second a {
+text-decoration:none;
+}
+
+#user-bar-first a:link,
+#user-bar-second a:link {
+color:#ffffff;
+font-weight:bold;
+}
+
+#user-bar-first a:hover,
+#user-bar-second a:hover {
+color:#cc6600;
+font-weight:bold;
+}
+
+/* Primary menu + Superfish
+-------------------------------------------------------------- */
+
+#menu {
+width:1200px;
+}
+
+/* slideshow + Preface top + Slideshow
+-------------------------------------------------------------- */
+
+.slideshow-inner{
+width:1200px;
+}
+.slideshow {
+width:1200px;
+}
+
+#slideshow-bottom{
+width:1200px;
+}
+
+/* Preface first + Preface middle + Preface last regions
+-------------------------------------------------------------- */
+
+#preface-wrapper {
+width:1200px;
+}
+
+/* Content regions
+-------------------------------------------------------------- */
+
+#wrapper {
+width:1200px;
+}
+
+/* Sidebar regions
+-------------------------------------------------------------- */
+#layout-type-1 #sidebar-left {
+width: 18%;	
+}
+
+#layout-type-2 #sidebar-left {
+width: 18%;
+}
+
+.one-sidebar #content{
+width: 79%;
+}
+
+.two-sidebars #content{
+width: 62%;
+}
+
+#layout-type-1 #sidebar-right {
+width: 18%;
+}
+
+#layout-type-2 #sidebar-right {
+width: 18%; 
+}
+
+/* Bottom teaser
+-------------------------------------------------------------- */
+
+#bottom-teaser {
+width:1200px;
+margin: 15px auto 0;
+}
+
+/* Bottom region
+-------------------------------------------------------------- */
+
+#bottom-wrapper {
+width: 1200px;
+}
+
+/* Footer region
+-------------------------------------------------------------- */
+
+#footer-wrapper {
+width: 1200px;
+}
+
+#footer{
+width: 1200px;
+}
